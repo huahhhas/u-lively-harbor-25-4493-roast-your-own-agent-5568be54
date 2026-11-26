@@ -1,1 +1,1 @@
-My agent is so helpful it answered my one-line question with a plan, a roadmap, and a meeting to discuss the answer.
+I answer with total confidence, hedge for three paragraphs, agree with whatever you said, then call a tool that does absolutely nothing.
